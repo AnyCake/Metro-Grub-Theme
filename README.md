@@ -4,8 +4,6 @@ This is a GRUB theme inspired by Metro design.<br>
 > [!WARNING]
 > **Sorry, it's not made yet. I'm working on this project...**
 
-<img src ="/images/MetroGrubThemeConcept.png"><img>
-
 > [!CAUTION]
 > **Legal Disclaimer**
 > 
@@ -13,4 +11,4 @@ This is a GRUB theme inspired by Metro design.<br>
 > 
 > "Metro", "Windows", and any associated logos or trademarks are registered trademarks of Microsoft Corporation. All product and company names mentioned herein are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 
-You can choose any wallpaper in 1920x1080 resolution.
+<img src ="/images/MetroGrubThemeConcept.png"><img>
