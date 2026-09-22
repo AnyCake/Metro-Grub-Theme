@@ -13,7 +13,7 @@ This is Grub theme inspired by metro design, it's not ready, but i'm working on 
 
 ## Credits & Licenses
 - **Project:** Licensed under the [MIT License](LICENSE)
-- **Font used in concept art (Google Sans):**: Licensed under the [SIL Open Font License 1.1](OFL.txt)
+- **Font used in concept art (Google Sans):** Licensed under the [SIL Open Font License 1.1](OFL.txt)
 
 ---
 <a href="https://www.star-history.com/?repos=anycake%2Fmetro-grub-theme&type=date&legend=top-left">
