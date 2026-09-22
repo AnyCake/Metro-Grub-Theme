@@ -12,6 +12,7 @@
 ## Credits & Licenses
 - Font used in concept art (Google Sans): Licensed under the [SIL Open Font License 1.1](OFL.txt)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://www.star-history.com/?repos=anycake%2Fmetro-grub-theme&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=anycake/metro-grub-theme&type=date&theme=dark&legend=top-left" />
