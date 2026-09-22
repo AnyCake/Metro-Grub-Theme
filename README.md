@@ -12,3 +12,6 @@
 
 This is a GRUB theme inspired by Metro design.<br>
 <img width="600" src ="/images/MetroGrubThemeConcept.png"><img>
+
+## Credits & Licenses
+- Font used in concept art (Google Sans): Licensed under the [SIL Open Font License 1.1](OFL.txt)
