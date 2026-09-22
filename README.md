@@ -4,7 +4,7 @@ This is a GRUB theme inspired by Metro design.<br>
 > [!WARNING]
 > **Sorry, it's not made yet. I'm working on this project...**
 
-<imgsrc ="/images/MetroGrubThemeConcept.png"><imgsrc>
+<img src ="/images/MetroGrubThemeConcept.png"><img>
 
 > [!CAUTION]
 > **Legal Disclaimer**
