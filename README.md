@@ -1,7 +1,8 @@
 # Metro-Grub-Theme
 
 This is a GRUB theme inspired by Metro design.<br>
-Sorry, it's not made yet. I'm working on this project...
+> [!WARNING]
+> **Sorry, it's not made yet. I'm working on this project...r**
 
 > [!CAUTION]
 > **Legal Disclaimer**
