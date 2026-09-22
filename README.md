@@ -12,7 +12,8 @@ This is Grub theme inspired by metro design, it's not ready, but i'm working on 
 > "Metro", "Windows", and any associated logos or trademarks are registered trademarks of Microsoft Corporation. All product and company names mentioned herein are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 
 ## Credits & Licenses
-- Font used in concept art (Google Sans): Licensed under the [SIL Open Font License 1.1](OFL.txt)
+- **Project:** Licensed under the [MIT License](LICENSE)
+- **Font used in concept art (Google Sans):**: Licensed under the [SIL Open Font License 1.1](OFL.txt)
 
 ---
 <a href="https://www.star-history.com/?repos=anycake%2Fmetro-grub-theme&type=date&legend=top-left">
