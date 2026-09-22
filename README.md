@@ -11,4 +11,4 @@ This is a GRUB theme inspired by Metro design.<br>
 > 
 > "Metro", "Windows", and any associated logos or trademarks are registered trademarks of Microsoft Corporation. All product and company names mentioned herein are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 
-<img src ="/images/MetroGrubThemeConcept.png"><img>
+<img width="600" src ="/images/MetroGrubThemeConcept.png"><img>
