@@ -1,5 +1,6 @@
 # Metro-Grub-Theme
 
+This is Grub theme inspired by metro design, it's not ready, but i'm working on it.
 <img width="600" src ="/images/MetroGrubThemeConcept.png"><img>
 
 > [!CAUTION]
