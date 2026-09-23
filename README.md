@@ -15,7 +15,8 @@ This is Grub theme inspired by metro design, it's not ready, but i'm working on 
 - **Project:** Licensed under the [MIT License](LICENSE)
 - **Font used in concept art (Google Sans):** Licensed under the [SIL Open Font License 1.1](OFL.txt)
 
----
+## Star History
+
 <a href="https://www.star-history.com/?repos=anycake%2Fmetro-grub-theme&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=anycake/metro-grub-theme&type=date&theme=dark&legend=top-left" />
